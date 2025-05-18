@@ -20,7 +20,7 @@ A Nike landing page, with some cool and advanced features. A React JS landing pa
 ```bash
 git clone https://github.com/MO-GBR/nike_landing_page.git
 
-cd
+cd nike_landing_page
 
 npm install
 
