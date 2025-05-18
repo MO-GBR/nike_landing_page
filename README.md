@@ -4,7 +4,7 @@ A Nike landing page, with some cool and advanced features. A React JS landing pa
 
 # 🔗 Live Demo
 
-👉 [View]()
+👉 [View](https://nike-landing-page-gamma-wine.vercel.app/)
 
 # 🛠️ Tech Stack
 - React JS
@@ -13,12 +13,12 @@ A Nike landing page, with some cool and advanced features. A React JS landing pa
 
 # 💎 Features
 - Modern design
-- Cool animations and transition
+- Cool animations and transitions
 
 # ⚡ Quick Start
 
 ```bash
-git clone
+git clone https://github.com/MO-GBR/nike_landing_page.git
 
 cd
 
